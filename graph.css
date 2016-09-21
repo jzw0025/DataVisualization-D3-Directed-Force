@@ -1,0 +1,13 @@
+body, .stage {
+  background-color: lightblue; 
+}
+
+h1{
+    text-align:center;
+}
+
+.link {
+    stroke: #777;
+}
+
+
